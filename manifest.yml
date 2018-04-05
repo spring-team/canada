@@ -1,6 +1,6 @@
 ---
 applications:
-- name: canada
+- name: "canada"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
